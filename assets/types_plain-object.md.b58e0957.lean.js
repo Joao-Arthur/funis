@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,a as o}from"./app.a31b0557.js";const A=JSON.parse('{"title":"plainObject","description":"","frontmatter":{},"headers":[],"relativePath":"types/plain-object.md"}'),p={name:"types/plain-object.md"},l=o("",2),e=[l];function t(c,r,y,C,D,i){return n(),a("div",null,e)}const _=s(p,[["render",t]]);export{A as __pageData,_ as default};
